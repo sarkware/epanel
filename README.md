@@ -1,2 +1,2 @@
-# postbox
-An open source mail client
+# ePanel
+An open source web mail client
